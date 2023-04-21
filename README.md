@@ -4,7 +4,7 @@
 This is a solution designed to challenge a potential developer candidate with simple features that touches many relevant technologies that are often used in Microsolutions applications. The task definition is intentionally technically vague because we want to see how you will go about solving it. 
 
 # The task
-Create a new page from where you can search emojies from an API, see your search history and favorite specific emojis.
+Create a new page in the provided Blazor Server project from where you can search emojies from an API, see your search history and favorite specific emojis.
 - The page should be available from the nav menu
 - Use the [emojihub API](https://github.com/cheatsnake/emojihub)
 - The user should be able to search for emojies in the Groups and Catagories documented in the APIs documentation
